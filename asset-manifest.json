@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ayumun.github.io/csb-vtiqz0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ayumun.github.io/csb-vtiqz0/static/js/main.85a770b4.chunk.js",
+    "main.js.map": "https://ayumun.github.io/csb-vtiqz0/static/js/main.85a770b4.chunk.js.map",
+    "runtime-main.js": "https://ayumun.github.io/csb-vtiqz0/static/js/runtime-main.dd88739d.js",
+    "runtime-main.js.map": "https://ayumun.github.io/csb-vtiqz0/static/js/runtime-main.dd88739d.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://ayumun.github.io/csb-vtiqz0/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://ayumun.github.io/csb-vtiqz0/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://ayumun.github.io/csb-vtiqz0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ayumun.github.io/csb-vtiqz0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://ayumun.github.io/csb-vtiqz0/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd88739d.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.85a770b4.chunk.js"
+  ]
+}
